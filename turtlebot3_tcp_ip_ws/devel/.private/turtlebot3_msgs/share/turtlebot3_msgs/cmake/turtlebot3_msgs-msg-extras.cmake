@@ -1,0 +1,2 @@
+set(turtlebot3_msgs_MESSAGE_FILES "/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_msgs/msg/SensorState.msg;/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_msgs/msg/VersionInfo.msg;/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_msgs/msg/Sound.msg;/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_msgs/msg/LandmarkDistance.msg")
+set(turtlebot3_msgs_SERVICE_FILES "")

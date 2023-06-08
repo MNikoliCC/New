@@ -1,0 +1,8 @@
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:[m[K In member function ‘[01m[Kbool TcpIpServer::userInput()[m[K’:
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:58:9:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+   58 |         [01;35m[K}[m[K
+      |         [01;35m[K^[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:[m[K In member function ‘[01m[Kbool TcpIpServer::userInput()[m[K’:
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:58:9:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [[01;35m[K-Wreturn-type[m[K]
+   58 |         [01;35m[K}[m[K
+      |         [01;35m[K^[m[K

@@ -1,0 +1,1 @@
+/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/devel/.private/turtlebot3_example/share/roseus/ros/turtlebot3_example/manifest.l

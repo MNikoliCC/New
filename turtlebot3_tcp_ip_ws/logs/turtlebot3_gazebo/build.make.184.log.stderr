@@ -1,0 +1,7 @@
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/client_tcp_ip_node.cpp:[m[K In member function ‘[01m[Kvoid TcpIpClient::communicate()[m[K’:
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/client_tcp_ip_node.cpp:186:17:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[K}[m[K’ token
+  186 |                 [01;31m[K}[m[K
+      |                 [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/turtlebot3_tcp_ip_client_node.dir/build.make:63: CMakeFiles/turtlebot3_tcp_ip_client_node.dir/src/client_tcp_ip_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:404: CMakeFiles/turtlebot3_tcp_ip_client_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

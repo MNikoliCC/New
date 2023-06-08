@@ -1,0 +1,1 @@
+/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/devel/.private/catkin_tools_prebuild/local_setup.bash

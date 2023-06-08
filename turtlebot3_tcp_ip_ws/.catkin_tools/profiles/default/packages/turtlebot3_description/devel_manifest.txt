@@ -1,0 +1,5 @@
+turtlebot3/turtlebot3_description
+/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/devel/.private/turtlebot3_description/cmake.lock /home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/devel/./cmake.lock
+/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/devel/.private/turtlebot3_description/share/turtlebot3_description/cmake/turtlebot3_descriptionConfig.cmake /home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/devel/share/turtlebot3_description/cmake/turtlebot3_descriptionConfig.cmake
+/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/devel/.private/turtlebot3_description/share/turtlebot3_description/cmake/turtlebot3_descriptionConfig-version.cmake /home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/devel/share/turtlebot3_description/cmake/turtlebot3_descriptionConfig-version.cmake
+/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/devel/.private/turtlebot3_description/lib/pkgconfig/turtlebot3_description.pc /home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/devel/lib/pkgconfig/turtlebot3_description.pc

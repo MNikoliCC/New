@@ -1,0 +1,65 @@
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:[m[K In member function ‘[01m[Kvoid TcpIpServer::communicate()[m[K’:
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:378:35:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kstd::ofstream json_out[m[K’
+  378 |                     std::ofstream [01;31m[Kjson_out[m[K("robot_updated.json");
+      |                                   [01;31m[K^~~~~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:370:35:[m[K [01;36m[Knote: [m[K‘[01m[Kstd::ofstream json_out[m[K’ previously declared here
+  370 |                     std::ofstream [01;36m[Kjson_out[m[K("client_data_updated.json");
+      |                                   [01;36m[K^~~~~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:386:35:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kstd::ofstream json_out[m[K’
+  386 |                     std::ofstream [01;31m[Kjson_out[m[K("closest_landmark_updated.json");
+      |                                   [01;31m[K^~~~~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:370:35:[m[K [01;36m[Knote: [m[K‘[01m[Kstd::ofstream json_out[m[K’ previously declared here
+  370 |                     std::ofstream [01;36m[Kjson_out[m[K("client_data_updated.json");
+      |                                   [01;36m[K^~~~~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:394:35:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kstd::ofstream json_out[m[K’
+  394 |                     std::ofstream [01;31m[Kjson_out[m[K("goal_landmark_updated.json");
+      |                                   [01;31m[K^~~~~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:370:35:[m[K [01;36m[Knote: [m[K‘[01m[Kstd::ofstream json_out[m[K’ previously declared here
+  370 |                     std::ofstream [01;36m[Kjson_out[m[K("client_data_updated.json");
+      |                                   [01;36m[K^~~~~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:[m[K In member function ‘[01m[Kvoid TcpIpServer::communicate()[m[K’:
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:378:35:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kstd::ofstream json_out[m[K’
+  378 |                     std::ofstream [01;31m[Kjson_out[m[K("robot_updated.json");
+      |                                   [01;31m[K^~~~~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:370:35:[m[K [01;36m[Knote: [m[K‘[01m[Kstd::ofstream json_out[m[K’ previously declared here
+  370 |                     std::ofstream [01;36m[Kjson_out[m[K("client_data_updated.json");
+      |                                   [01;36m[K^~~~~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:386:35:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kstd::ofstream json_out[m[K’
+  386 |                     std::ofstream [01;31m[Kjson_out[m[K("closest_landmark_updated.json");
+      |                                   [01;31m[K^~~~~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:370:35:[m[K [01;36m[Knote: [m[K‘[01m[Kstd::ofstream json_out[m[K’ previously declared here
+  370 |                     std::ofstream [01;36m[Kjson_out[m[K("client_data_updated.json");
+      |                                   [01;36m[K^~~~~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:394:35:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kstd::ofstream json_out[m[K’
+  394 |                     std::ofstream [01;31m[Kjson_out[m[K("goal_landmark_updated.json");
+      |                                   [01;31m[K^~~~~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/server_tcp_ip_node.cpp:370:35:[m[K [01;36m[Knote: [m[K‘[01m[Kstd::ofstream json_out[m[K’ previously declared here
+  370 |                     std::ofstream [01;36m[Kjson_out[m[K("client_data_updated.json");
+      |                                   [01;36m[K^~~~~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/client_tcp_ip_node.cpp:[m[K In member function ‘[01m[Kvoid TcpIpClient::communicate()[m[K’:
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/client_tcp_ip_node.cpp:274:43:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kstd::ifstream file4[m[K’
+  274 |                             std::ifstream [01;31m[Kfile4[m[K("robot_updated.json");
+      |                                           [01;31m[K^~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/client_tcp_ip_node.cpp:270:43:[m[K [01;36m[Knote: [m[K‘[01m[Kstd::ifstream file4[m[K’ previously declared here
+  270 |                             std::ifstream [01;36m[Kfile4[m[K("client_data_updated.json");
+      |                                           [01;36m[K^~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/client_tcp_ip_node.cpp:278:43:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kstd::ifstream file4[m[K’
+  278 |                             std::ifstream [01;31m[Kfile4[m[K("closest_landmark_updated.json");
+      |                                           [01;31m[K^~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/client_tcp_ip_node.cpp:270:43:[m[K [01;36m[Knote: [m[K‘[01m[Kstd::ifstream file4[m[K’ previously declared here
+  270 |                             std::ifstream [01;36m[Kfile4[m[K("client_data_updated.json");
+      |                                           [01;36m[K^~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/client_tcp_ip_node.cpp:282:43:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[Kstd::ifstream file4[m[K’
+  282 |                             std::ifstream [01;31m[Kfile4[m[K("goal_landmark_updated.json");
+      |                                           [01;31m[K^~~~~[m[K
+[01m[K/home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src/turtlebot3_simulations/turtlebot3_gazebo/src/client_tcp_ip_node.cpp:270:43:[m[K [01;36m[Knote: [m[K‘[01m[Kstd::ifstream file4[m[K’ previously declared here
+  270 |                             std::ifstream [01;36m[Kfile4[m[K("client_data_updated.json");
+      |                                           [01;36m[K^~~~~[m[K
+make[2]: *** [CMakeFiles/turtlebot3_gazebo.dir/build.make:63: CMakeFiles/turtlebot3_gazebo.dir/src/server_tcp_ip_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:2100: CMakeFiles/turtlebot3_gazebo.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make[2]: *** [CMakeFiles/turtlebot3_tcp_ip_client_node.dir/build.make:63: CMakeFiles/turtlebot3_tcp_ip_client_node.dir/src/client_tcp_ip_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:404: CMakeFiles/turtlebot3_tcp_ip_client_node.dir/all] Error 2
+make[2]: *** [CMakeFiles/turtlebot3_tcp_ip_server_node.dir/build.make:63: CMakeFiles/turtlebot3_tcp_ip_server_node.dir/src/server_tcp_ip_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:301: CMakeFiles/turtlebot3_tcp_ip_server_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

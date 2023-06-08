@@ -1,0 +1,6 @@
+devel_space: /home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/devel
+install: false
+install_space: /home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/install
+profile: default
+source_space: /home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws/src
+workspace: /home/pilaciv/Workspaces/turtlebot3_tcp_ip_ws
